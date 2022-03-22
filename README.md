@@ -1,5 +1,8 @@
-# Getting Started with Create React App
+# Notice
+**This code is study use,learn from [入门教程: 认识 React – React](https://zh-hans.reactjs.org/tutorial/tutorial.html)**
 
+---
+# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
